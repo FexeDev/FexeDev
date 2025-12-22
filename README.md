@@ -3,7 +3,6 @@
 
 - 6+ years of experience in game development with Unreal Engine, recently exploring Unity
 - Released 2 commercial titles: a single-player game on itch.io and a multiplayer game on Steam
-- Skilled in Python scripting, gameplay programming, multiplayer systems, and full-cycle game development
 
 
 <div align="center">
