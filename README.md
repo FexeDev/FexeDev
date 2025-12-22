@@ -1,20 +1,9 @@
 # **Profile**
-Indie Game Developer
+**Indie Game Developer**
 
 - 6+ years of experience in game development with Unreal Engine, recently exploring Unity
 - Released 2 commercial titles: a single-player game on itch.io and a multiplayer game on Steam
 - Skilled in Python scripting, gameplay programming, multiplayer systems, and full-cycle game development
-
-<!-- Socials -->
-## **Socials:**
-<p>
-  <a href="https://yourgame.itch.io">
-    <img src="https://img.shields.io/badge/Play%20on-itch.io-F53C3C?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io">
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
 
 
 <div align="center">
