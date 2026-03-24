@@ -2,7 +2,7 @@
 **Indie Game Developer**
 
 - 6+ years of experience in game development with Unreal Engine, recently exploring Unity
-- Released 2 commercial titles ↓↓↓
+- Released 2 commercial titles
 
 
 <div align="center">
