@@ -47,6 +47,18 @@
       <br>
       <span>Unity, C#</span>
     </td>
+    <!-- Game 4 -->
+    <td align="center">
+      <a href="https://fexedev.itch.io/takt" target="_blank">
+        <img src="https://raw.githubusercontent.com/FexeDev/FexeDev/main/Resources/takt.png"/>
+      </a>
+      <br>
+      <a href="https://fexedev.itch.io/takt" target="_blank" style="color: inherit; text-decoration: none;">
+        <strong>TAKT</strong>
+      </a>
+      <br>
+      <span>Unity, C#</span>
+    </td>
   </tr>
 </table>
 
