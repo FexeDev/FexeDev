@@ -2,7 +2,7 @@
 **Indie Game Developer**
 
 - 6+ years of experience in game development with Unreal Engine, recently exploring Unity
-- Released 2 commercial titles
+- Released 4 commercial titles
 
 
 <div align="center">
@@ -35,6 +35,8 @@
       <br>
       <span>Unreal Engine 5, Blueprints, C++</span>
     </td>
+  </tr>
+  <tr>
     <!-- Game 3 -->
     <td align="center">
       <a href="https://fexedev.itch.io/beneath-the-playground" target="_blank">
